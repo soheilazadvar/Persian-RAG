@@ -21,7 +21,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system specif
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sinaaasghari/Persian-RAG.git
    ```
 
 2. Install the dependencies:
@@ -33,7 +33,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system specif
 3. Run the application:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 ## Usage
