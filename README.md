@@ -1,13 +1,13 @@
 
-# Persian Retrieval-Augmented Generation (RAG) with LLaMAIndex
+# Persian Retrieval-Augmented Generation (RAG) with LlamaIndex
 
-This project implements a **Retrieval-Augmented Generation (RAG)** system specifically for the **Persian language**, leveraging the **LLaMAIndex** library. It combines a state-of-the-art Persian language model with a highly optimized retrieval mechanism, making it one of the most effective solutions for Persian question-answering tasks.
+This project implements a **Retrieval-Augmented Generation (RAG)** system specifically for the **Persian language**, leveraging the **LlamaIndex** library. It combines a state-of-the-art Persian language model with a highly optimized retrieval mechanism, making it one of the most effective solutions for Persian question-answering tasks.
 
 ## Key Features
 
 - **Persian Language Focus**: The system is built to handle Persian queries and provide accurate answers using Persian text documents.
 - **Best-in-Class Persian Embeddings**: The embedding model used in this project is among the best available for Persian, ensuring that the semantic representation of text is highly accurate.
-- **LLaMAIndex Integration**: The project is powered by the **LLaMAIndex** library, which enables efficient vector storage, retrieval, and query processing.
+- **LlamaIndex Integration**: The project is powered by the **LlamaIndex** library, which enables efficient vector storage, retrieval, and query processing.
   
 ## Project Structure
 
